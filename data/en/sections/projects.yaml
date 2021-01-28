@@ -1,0 +1,52 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+
+
+# your projects
+projects:
+- name: Chat Service Back-End
+  role: Developer
+  timeline: "Spring 2020"
+  repo: "https://github.com/hsandid/EECE503-WebServicesintheCloud-ChatService" # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Back-End API using ASP.NET Core. Project realized to learn about back-end development and CD/CI systems.
+  tags: ["academic"]
+
+- name: Educational GameSystem
+  role: Developer
+  timeline: "Fall 2020"
+  repo: "https://github.com/hsandid/GameFramework_QT"
+  summary: Game Client using QT/C++. Offers a registration/login system and two separate games (Snakes and Ladders & Cabo).
+  tags: ["academic"]
+
+- name: Basic Shell
+  role: Developer
+  timeline: "Fall 2020"
+  repo: "https://github.com/hsandid/BasicShell"
+  summary: Basic Shell written in C & Java. The main shell is written in C and calls separate Java files to execute commands. The shell also supports pipes to re-route output of certain commands as input to other commands.
+  tags: ["academic"]
+  
+- name: Library System
+  role: Developer
+  timeline: "Spring 2019"
+  repo: "https://github.com/hsandid/Library-System"
+  #url: ""
+  summary: Java-Based Library System. Offers a user-friendly interface to look-up and reserve books from a local database.
+  tags: ["academic"]
+  
+- name: Memory Game
+  role: Developer
+  timeline: "Spring 2019"
+  repo: "https://github.com/hsandid/EECE321L-ComputerOrganizationLab-MemoryGame"
+  summary: Memory game written in Assembly. Project realized for a PIC16F4A microcontroller connected to a LCD display.
+  tags: ["academic"]

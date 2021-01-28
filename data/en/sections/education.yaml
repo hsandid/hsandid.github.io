@@ -1,0 +1,47 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: B.E in Computer and Communications Engineering
+  icon: fa-graduation-cap
+  timeframe: 2017-2021
+  institution:
+    name: American University of Beirut
+    url: "https://www.aub.edu.lb/"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.7
+    outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Embed. Microprocessor System Design
+    - name: Radio Frequency (RF) Circuits Design
+    - name: Operating Systems
+    - name: Software Architecture and Design
+    - name: Data Structures and Algorithm
+    - name: Computer Networking
+    - name: Network Security
+    - name: Web Services in the Cloud
+    - name: Audio Engineering
+
+
+  extracurricularActivities: #(optional)
+  - Tutoring ECE/CCE courses.
+  - Participated in different workshops related to Robotics and Artifical Intelligence
+- name: French Baccalaureate
+  icon: fa-school
+  timeframe: 2006-2017
+  institution:
+    name: Lycee Abdel-Kader
+    url: "https://www.lak.edu.lb/"
+

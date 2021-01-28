@@ -1,0 +1,17 @@
+# some information about you
+name: "Hadi Sandid"
+nickname: "Hadi"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/hadi.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "hadisandid@gmail.com"
+
+# some summary about what you do
+summary:
+  - 4th Year Computer and Communications Engineer
+  - I enjoy hiking around Lebanon
+  - I am interested in Embedded Systems
+  - I enjoy good coffee !
+

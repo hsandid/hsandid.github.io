@@ -1,0 +1,27 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: American University of Beirut.
+    url: "https://www.aub.edu.lb/"
+    location: On-Campus
+    # company overview
+    overview: Assisting team Levantine with the development of a Smart Irrigation System, which was selected in the Google AI Impact Challenge 2019.
+  positions: 
+  - designation: Research Assistant
+    start: August 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Currently working on an Irrigation Management System, which allows farmers to use water resources more efficiently on their agricultural fields.
+    - This includes developing an on-site hardware solution (using micro-controllers) to control irrigation routines, and also a mobile application (using Android) to allow users to access agricultural field data.

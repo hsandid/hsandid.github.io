@@ -1,0 +1,66 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: CCE Undergrad
+# your company information
+company:
+  name: the American University of Beirut
+  url: "https://www.aub.edu.lb/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/hsandid_cv.pdf"
+
+# a summary about you
+summary: 'Motivated student, with +3 years of experience working with different programming languages and frameworks. Willing to be exposed to new situations, work in a team environment, and invest time into research and prototyping. My current field of interest is Embedded Systems'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "hadisandid@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/hsandid"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/hadisandid/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Fast Learner
+  percentage: 95
+  color: blue
+- name: Problem Solving
+  percentage: 95
+  color: yellow
+- name: Team Work
+  percentage: 95
+  color: pink
+- name: French
+  percentage: 95
+  color: green
+- name: English
+  percentage: 95
+  color: sky
+- name: Arabic
+  percentage: 95
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

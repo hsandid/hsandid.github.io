@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: C/C++
+  logo: "/images/sections/skills/c++.png"
+  summary: "Intermediate Level : Used for low-level & embedded systems programming."
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Intermediate Level : Used for Database Management, Networking, and Machine Learning applications."
+  
+- name: Java
+  logo: "/images/sections/skills/java.png"
+  summary: "Intermediate Level : Used for Database Management, GUI applications, and Android Dev."
+  
+- name: ASP.NET Core
+  logo: "/images/sections/skills/asp-net-core.png"
+  summary: "Previously worked with the ASP.NET Core framework to develop a deployable Back-End, as well as its API."
+  
+- name: Cloud Computing/Hosting
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Previously worked with Azure and AWS to run workloads in the cloud; as well as host services with support for continuous integration and continous deployment."
+
+- name: Linux
+  logo: "/images/sections/skills/linux.png"
+  summary: "Comfortable with the Linux ecosystem. Currently using Ubuntu as my main distribution."
+
+- name: Git
+  logo: "/images/sections/skills/git.png"
+  summary: "Knows the basics of git-based development. I've mostly worked with Github and Bitbuckets to host my works."
+  url: "https://git-scm.com/"
+
+
