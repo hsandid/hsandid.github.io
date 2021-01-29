@@ -6,6 +6,5 @@ menu:
   sidebar:
     name: "Adding Custom Instructions to the RISC-V GNU-GCC toolchain"
     identifier: adding-instructions-riscv-gnu-gcc
-    parent: articles
     weight: 210
 ---

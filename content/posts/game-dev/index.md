@@ -8,7 +8,6 @@ menu:
   sidebar:
     name: "Source Engine & Game Design"
     identifier: game-design-source-engine
-    parent: hobbies
     weight: 110 
 ---
 
