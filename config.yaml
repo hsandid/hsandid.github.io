@@ -25,7 +25,7 @@ markup:
     ordered: false
 
 # Enable Google Analytics
-googleAnalytics: UA-XXXXXXXXX-X
+googleAnalytics: UA-153830531-1
 
 # Enable Disqus forum
 disqusShortname: https-hsandid-github-io-disqus-com
