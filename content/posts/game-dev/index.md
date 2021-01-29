@@ -3,7 +3,6 @@ title: "Source Engine & Game Design"
 date: 2021-01-27T18:36:23+02:00
 draft: false
 description: Overview of my experiences with Game Design & the Source Engine.
-hero: /images/posts/source-engine/source-engine-0.jpg
 menu:
   sidebar:
     name: "Source Engine & Game Design"
