@@ -28,7 +28,7 @@ markup:
 googleAnalytics: UA-XXXXXXXXX-X
 
 # Enable Disqus forum
-disqusShortname: does-not-exist
+disqusShortname: hadisandid
 
 # Enable global emoji support
 enableEmoji: true
