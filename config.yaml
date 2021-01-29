@@ -28,7 +28,7 @@ markup:
 googleAnalytics: UA-XXXXXXXXX-X
 
 # Enable Disqus forum
-disqusShortname: hadisandid
+disqusShortname: https-hsandid-github-io-disqus-com
 
 # Enable global emoji support
 enableEmoji: true
