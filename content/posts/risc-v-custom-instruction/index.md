@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: "Adding Custom Instructions to the RISC-V GNU-GCC toolchain"
     identifier: adding-instructions-riscv-gnu-gcc
-    weight: 210
+    weight: 220
 ---
 
 - This tutorial is an updated version of Nitish Srivastava's tutorial [Adding custom instruction to RISCV ISA and running it on gem5 and spike](https://nitish2112.github.io/post/adding-instruction-riscv/).
@@ -138,6 +138,6 @@ This is the parsing function riscv_ip()'s main switch statement which handles th
 
 ![Risc-v custom](/images/posts/risc-v-custom/risc-v-custom-5.jpeg)
 
-Finally, RISC-V instructions are assembled into machine code. You can use 'obj-dump' to check the generated RISC-V binaries, and check where your custom instruction is invoked.
+- Finally, RISC-V instructions are assembled into machine code. You can use 'obj-dump' to check the generated RISC-V binaries, and check where your custom instruction is invoked.
 
 - We have not implemented any logic related to the instruction in here. Logic needs to be implemented on the simulator side, meaning that if you'd like your custom instruction to work with SPIKE or gem5; you'd have to modify them and add the logic associated with your custom instruction manually.

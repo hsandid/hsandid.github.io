@@ -7,7 +7,7 @@ menu:
   sidebar:
     name: "Source Engine & Game Design"
     identifier: game-design-source-engine
-    weight: 110 
+    weight: 210
 ---
 
 Game design has been one of my favourite hobbies since High School. 
