@@ -10,6 +10,12 @@ section:
   # hideTitle: true
 
 degrees:
+- name: MSc&T in Innovation and Management in Internet-of-Things
+  icon: fa-school
+  timeframe: 2021-2023
+  institution:
+    name: École Polytechnique
+    url: "https://www.polytechnique.edu/"
 - name: B.E in Computer and Communications Engineering
   icon: fa-graduation-cap
   timeframe: 2017-2021

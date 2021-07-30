@@ -8,17 +8,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: CCE Undergrad
+designation: MSc&T Student
 # your company information
 company:
-  name: the American University of Beirut
-  url: "https://www.aub.edu.lb/"
+  name: École Polytechnique
+  url: "https://www.polytechnique.edu/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/hsandid_cv.pdf"
 
 # a summary about you
-summary: 'I am a 4th year Computer and Communications engineering undergrad at the American University of Beirut. My current fields of interest are Computer Networking and IoT Systems. In my free time, I like to hike around Lebanon, read books, and work on fun software/hardware projects'
+summary: 'I am a 1st year MSc&T Student at École Polytechnique, in the Internet-of-Things program. My current fields of interest are Computer Networking and Embedded Systems. In my free time, I like to hike around Lebanon, read books, and work on fun software/hardware projects'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
