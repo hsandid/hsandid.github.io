@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: "Adding Custom Instructions to the RISC-V GNU-GCC toolchain"
     identifier: adding-instructions-riscv-gnu-gcc
-    weight: 220
+    weight: 191
 ---
 
 - This tutorial is an updated version of Nitish Srivastava's tutorial [Adding custom instruction to RISCV ISA and running it on gem5 and spike](https://nitish2112.github.io/post/adding-instruction-riscv/).
