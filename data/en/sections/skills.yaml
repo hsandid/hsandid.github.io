@@ -17,11 +17,11 @@ skills:
 
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "Intermediate Level : Used for Database Management, Networking, and Machine Learning applications."
+  summary: "Familiar Level : Used for Database Management, Networking, and Machine Learning applications."
   
 - name: Java
   logo: "/images/sections/skills/java.png"
-  summary: "Intermediate Level : Used for Database Management, GUI applications, and Android Dev."
+  summary: "Familiar Level : Used for Database Management, GUI applications, and Android Dev."
   
 - name: ASP.NET Core
   logo: "/images/sections/skills/asp-net-core.png"
