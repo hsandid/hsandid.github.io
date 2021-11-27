@@ -20,8 +20,8 @@ experiences:
   - designation: Research Assistant
     start: August 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+     end: August 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Currently working on an Irrigation Management System, which allows farmers to use water resources more efficiently on their agricultural fields.
+    - Worked on an Irrigation Management System, which allows farmers to use water resources more efficiently on their agricultural fields.
     - This includes developing an on-site hardware solution (using micro-controllers) to control irrigation routines, and also a mobile application (using Android) to allow users to access agricultural field data.
