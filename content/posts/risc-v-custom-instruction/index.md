@@ -9,6 +9,8 @@ menu:
     weight: 191
 ---
 
+- **UPDATE (Feb 2022)** : I have not used the RISC-V toolchain in quite a bit & this tutorial might be outdated. I recommend checking out a more updated tutorial on the matter, like this [one](https://medium.com/@viveksgt/adding-custom-instructions-compilation-support-to-riscv-toolchain-78ce1b6efcf4) by Vivek.
+
 - This tutorial is an updated version of Nitish Srivastava's tutorial [Adding custom instruction to RISCV ISA and running it on gem5 and spike](https://nitish2112.github.io/post/adding-instruction-riscv/).
 - I've also used some tips Jim Wilson gave on the following [mailing list](https://groups.google.com/a/groups.riscv.org/g/sw-dev/c/sL_OHXYj3LY/m/Gsm6sBc9BQAJ).
 
