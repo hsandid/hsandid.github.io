@@ -11,6 +11,22 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Cisco Meraki
+    url: "https://meraki.cisco.com"
+    location: Paris, France
+    # company overview
+    overview: As a member of the MX team, I contributed to performance analysis efforts for software data-plane solutions at Meraki.  
+  positions: 
+  - designation: Software Engineering Intern
+    start: April 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: August 2022
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Implemented framework to enable local performance testing of Meraki data-planes, using C++/Python/Bash.
+    - Conducted performance tests to estimate data-plane performance, and identify software bottlenecks and bugs.
+    - Wrote design documents assessing framework design alternatives, and documentation for framework usage.
+- company:
     name: American University of Beirut.
     url: "https://www.aub.edu.lb/"
     location: On-Campus
