@@ -16,7 +16,7 @@ degrees:
   institution:
     name: École Polytechnique
     url: "https://www.polytechnique.edu/"
-    grade: #(optional)
+  grade: #(optional)
     scale: GPA
     achieved: 3.92
     outOf: 4
