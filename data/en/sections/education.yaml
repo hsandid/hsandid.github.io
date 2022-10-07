@@ -16,6 +16,17 @@ degrees:
   institution:
     name: École Polytechnique
     url: "https://www.polytechnique.edu/"
+    grade: #(optional)
+    scale: GPA
+    achieved: 3.92
+    outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Data Visualization
+    - name: Business Models in the Digital Era
+    - name: IoT Workshops
 - name: B.E in Computer and Communications Engineering
   icon: fa-graduation-cap
   timeframe: 2017-2021
