@@ -16,10 +16,10 @@ degrees:
   institution:
     name: École Polytechnique
     url: "https://www.polytechnique.edu/"
-  grade: #(optional)
-    scale: GPA
-    achieved: 3.92
-    outOf: 4
+  # grade: #(optional)
+    # scale: GPA
+    # achieved: 3.92
+    # outOf: 4
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
@@ -33,10 +33,10 @@ degrees:
   institution:
     name: American University of Beirut
     url: "https://www.aub.edu.lb/"
-  grade: #(optional)
-    scale: GPA
-    achieved: 3.7
-    outOf: 4
+  # grade: #(optional)
+    # scale: GPA
+    # achieved: 3.7
+    # outOf: 4
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
@@ -55,10 +55,4 @@ degrees:
   extracurricularActivities: #(optional)
   - Tutoring ECE/CCE courses.
   - Participated in different workshops related to Robotics and Artifical Intelligence
-- name: French Baccalaureate
-  icon: fa-school
-  timeframe: 2006-2017
-  institution:
-    name: Lycee Abdel-Kader
-    url: "https://www.lak.edu.lb/"
 

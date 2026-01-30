@@ -8,55 +8,55 @@ section:
   template: sections/about.html
 
 # your designation
-designation: MSc&T Student
+designation: Software Engineer
 # your company information
 company:
-  name: École Polytechnique
-  url: "https://www.polytechnique.edu/"
+  name: Cisco
+  url: "https://www.cisco.com/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/hsandid_cv.pdf"
 
 # a summary about you
-summary: 'I am a 1st year MSc&T Student at École Polytechnique, in the Internet-of-Things program. My current fields of interest are Computer Networking and Embedded Systems. In my free time, I like to hike around Lebanon, read books, and work on fun software/hardware projects'
+summary: |
+  My current fields of interest are Software Dataplanes and Computer Networking. <br />
+  In my free time, I like to go hiking, read books, and work on fun software/hardware projects
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/hsandid"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/hadisandid/"
 - name: Email
   icon: "fas fa-envelope"
   url: "hadisandid@gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/hsandid"
-
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/hadisandid/"
-
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: Fast Learner
-  percentage: 95
-  color: blue
-- name: Problem Solving
-  percentage: 95
-  color: yellow
-- name: Team Work
-  percentage: 95
-  color: pink
-- name: French
-  percentage: 95
-  color: green
-- name: English
-  percentage: 95
-  color: sky
-- name: Arabic
-  percentage: 95
-  color: orange
+# softSkills:
+# - name: Fast Learner
+#   percentage: 95
+#   color: blue
+# - name: Problem Solving
+#   percentage: 95
+#   color: yellow
+# - name: Team Work
+#   percentage: 95
+#   color: pink
+# - name: French
+#   percentage: 95
+#   color: green
+# - name: English
+#   percentage: 95
+#   color: sky
+# - name: Arabic
+#   percentage: 95
+#   color: orange
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
 #   percentage: 75

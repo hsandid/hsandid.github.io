@@ -11,11 +11,41 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Cisco Systems
+    url: "https://www.cisco.com"
+    location: Paris, France
+    # company overview
+    # overview: Part of the VPP / Cloud-Native Dataplane team.
+  positions: 
+  - designation: Software Engineer
+    start: October 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end:  2023
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Currently working on Cisco's SSE/SASE offerings (Secure Access, Secure Connect)
+    - Contributor on the FD.io VPP (Vector Packet Processor) project
+- company:
+    name: Cadence Design Systems
+    url: "https://www.cadence.com"
+    location: Sophia Antipolis, France
+    # company overview
+    # overview: As part of the Virtuoso Interactive Routing team, I worked on designing improved logging systems and facilitating customer troubleshooting.
+  positions: 
+  - designation: Software Engineering Intern
+    start: April 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: September 2023
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Designed asynchronous logging system for Virtuoso with minimal performance impact, using C/C++
+    - Drafted design documents and technical presentations for the Virtuoso Interactive Routing team, to assist future productization efforts
+- company:
     name: Cisco Meraki
     url: "https://meraki.cisco.com"
     location: Paris, France
     # company overview
-    overview: As a member of the MX team, I contributed to performance analysis efforts for software data-plane solutions at Meraki.  
+    # overview: As a member of the MX team, I contributed to performance analysis efforts for software data-plane solutions at Meraki.  
   positions: 
   - designation: Software Engineering Intern
     start: April 2022
@@ -31,7 +61,7 @@ experiences:
     url: "https://www.aub.edu.lb/"
     location: On-Campus
     # company overview
-    overview: Assisting team Levantine with the development of a Smart Irrigation System, which was selected in the Google AI Impact Challenge 2019.
+    # overview: 
   positions: 
   - designation: Research Assistant
     start: August 2019
@@ -39,5 +69,5 @@ experiences:
     end: August 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Worked on an Irrigation Management System, which allows farmers to use water resources more efficiently on their agricultural fields.
+    - Assisting team Levantine with the development of a Smart Irrigation System, which was selected in the Google AI Impact Challenge 2019.
     - This includes developing an on-site hardware solution (using micro-controllers) to control irrigation routines, and also a mobile application (using Android) to allow users to access agricultural field data.
