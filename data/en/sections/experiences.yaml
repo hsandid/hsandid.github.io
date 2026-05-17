@@ -4,7 +4,7 @@ section:
   id: experiences
   enable: true
   weight: 3
-  showOnNavbar: true
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true 
 
@@ -23,7 +23,7 @@ experiences:
     # end:  2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Currently working on Cisco's SSE/SASE offerings (Secure Access, Secure Connect)
+    - Currently working on Cisco's SSE/SASE offerings
     - Contributor on the FD.io VPP (Vector Packet Processor) project
 - company:
     name: Cadence Design Systems

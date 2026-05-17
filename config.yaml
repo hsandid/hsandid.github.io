@@ -3,7 +3,6 @@ languageCode: en-us
 defaultContentLanguage: en
 title: "Hadi Sandid"
 
-
 # Use Hugo modules to add theme
 module:
   imports:
@@ -26,21 +25,24 @@ markup:
     renderer:
       unsafe: true
   tableOfContents:
-    startLevel: 2
+    startLevel: 1
     endLevel: 6
     ordered: false
-
-
-
-
-# Enable Disqus forum
-disqusShortname: https-hsandid-github-io-disqus-com
 
 # Enable global emoji support
 enableEmoji: true
 
 # Site parameters
 params:
+  footer:
+    enable: true
+    contactMe:
+      enable: false
+    navigation:
+      enable: false
+    newsletter:
+      enable: false
+      
   # Background image of the landing page
   background: /images/site/background.png
 
@@ -56,20 +58,19 @@ params:
   gitRepo: https://github.com/hsandid/hsandid.github.io
   gitBranch: main
 
-  # specify whether you want to write some blog posts or not
-  enableBlogPost: true
 
-  # specify whether you want to show Table of Contents in reading page
-  enableTOC: true
   features:
+    darkMode:
+      enable: true
+    toc:
+      enable: true
+  # Enable and configure blog posts
+    blog:
+      enable: true
+      showAuthor: false
     analytics:
       enable: true
       services:
         # GoatCounter
         goatCounter:
           code: halsandi
-
-  # Provide newsletter configuration. This feature hasn't been implemented yet.
-  # Currently, you can just hide it from the footer.
-  # newsletter:
-    # enable: false

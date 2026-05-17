@@ -4,7 +4,7 @@ section:
   id: about
   enable: true
   weight: 1
-  showOnNavbar: true
+  showOnNavbar: false
   template: sections/about.html
 
 # your designation
